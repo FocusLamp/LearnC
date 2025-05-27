@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class Main {
+public class LapExamThisOneBro {
 
     public static void main(String[] args) {
         
